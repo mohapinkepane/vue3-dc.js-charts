@@ -1,0 +1,29 @@
+.vue-dc-button{
+  cursor: pointer;
+}
+
+.vue-dc-graph-stats{
+  display: flex;
+    justify-content: center;
+}
+
+.vue-dc-graph-description{
+  margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.doc-header{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin:1rem 2rem 2rem 2rem;
+}
+
+.example-header{
+      justify-content: center;
+      display: flex;
+      text-decoration: underline;
+}
