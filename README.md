@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# vue3-dc.js-charts
+Simple implementation of dc.js charts using vue3. 
+We were following [this tutorial](https://www.tutorialspoint.com/dcjs/index.htm) on [tutorialspoint](https://www.tutorialspoint.com/dcjs/index.htm).
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# License
+The MIT License (MIT). Please see [License File](https://github.com/mohapinkepane/vue3-dc.js-charts/edit/master/README.md) for more information.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
