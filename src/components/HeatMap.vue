@@ -3,6 +3,11 @@
         <div class="vue-dc-graph-description">
             <b>People by Height per Gender</b>
             <a href="https://www.tutorialspoint.com/dcjs/dcjs_heat_map.htm" target="_blank"> DC.js - Heat Map Tutorial</a>
+              <a
+                href="https://github.com/mohapinkepane/vue3-dc.js-charts/blob/master/src/components/HeatMap.vue"
+                target="_blank"
+                >See chart source here</a
+              >
         </div>
         <div id="heatmap">
         </div>

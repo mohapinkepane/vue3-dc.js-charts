@@ -20,6 +20,12 @@
     <h3 style="margin: 0rem 1rem; text-decoration: underline">Important Resources</h3>
     <ul>
       <li>
+        <b>GitHub</b>:
+        <a href="https://github.com/mohapinkepane/vue3-dc.js-charts" target="_blank"
+          >repository link</a
+        >
+      </li>
+      <li>
         <b>Tutorialspoint</b>:
         <a href="https://www.tutorialspoint.com/dcjs/index.htm" target="_blank"
           >dc.js tutorial</a

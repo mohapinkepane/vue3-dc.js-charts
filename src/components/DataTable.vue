@@ -3,6 +3,11 @@
   <div class="vue-dc-graph-description">
            <b>People by Age</b>
            <a href="https://www.tutorialspoint.com/dcjs/dcjs_data_table.htm" target="_blank"> DC.js - Data Table Tutorial</a>
+            <a
+              href="https://github.com/mohapinkepane/vue3-dc.js-charts/blob/master/src/components/DataTable.vue"
+              target="_blank"
+              >See chart source here</a
+            >
         </div>
     <div class="vue-dc-graph-stats" > 
         <div id = "mystats2" class ="dc-data-count">

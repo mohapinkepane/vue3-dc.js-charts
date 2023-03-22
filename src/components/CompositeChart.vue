@@ -3,6 +3,11 @@
     <div class="vue-dc-graph-description">
             <b>People by Age per Gender</b>
             <a href="https://www.tutorialspoint.com/dcjs/dcjs_composite_chart.htm" target="_blank"> DC.js - Composite Chart Tutorial</a>
+             <a
+              href="https://github.com/mohapinkepane/vue3-dc.js-charts/blob/master/src/components/CompositeChart.vue"
+              target="_blank"
+              >See chart source here</a
+            >
         </div>
         
     <div id="composite">

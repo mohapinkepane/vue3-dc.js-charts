@@ -3,6 +3,11 @@
       <div class="vue-dc-graph-description">
           <b>People by Weight and Height Grouped By Gender</b>
           <a href="https://www.tutorialspoint.com/dcjs/dcjs_scatter_plot.htm" target="_blank"> DC.js - Scatter Plot Tutorial</a>
+          <a
+          href="https://github.com/mohapinkepane/vue3-dc.js-charts/blob/master/src/components/ScatterPlot.vue"
+          target="_blank"
+          >See chart source here</a
+        >
       </div>
       
       <div id="scatter">

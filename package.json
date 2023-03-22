@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "crossfilter2": "^1.5.4",
-    "dc": "^4.2.7"
+    "dc": "^4.2.7",
+    "vue": "^3.2.45"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
